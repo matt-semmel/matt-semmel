@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matt-semmel
+- 👋 Hi, I’m @matt-semmel. At some point I'll dig through school work and actually upload some code.
 - 👀 I’m interested in programming, AI/ML, HCI.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on finding an entry-level job in the industry.
