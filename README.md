@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matt-semmel.
-- 👀 I’m interested in programming, AI/ML, HCI.
-- 🌱 I’m currently learning Java.
+- 👀 I’m primarily interested in machine learning and data science.
+- 🌱 I’m currently learning C, R, and Python.
 - 💞️ I’m looking to collaborate on finding an entry-level job in the industry.
 - 📫 How to reach me: wintermute.compsci@gmail.com
 
